@@ -1,0 +1,10 @@
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\bin\Debug\CarParkAssistant.exe.config
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\bin\Debug\CarParkAssistant.exe
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\bin\Debug\CarParkAssistant.pdb
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.csprojResolveAssemblyReference.cache
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.Form1.resources
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.Properties.Resources.resources
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.csproj.GenerateResource.Cache
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.csproj.CoreCompileInputs.cache
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.exe
+D:\download\carParkAssistant\CarParkAssistant\CarParkAssistant\obj\Debug\CarParkAssistant.pdb
